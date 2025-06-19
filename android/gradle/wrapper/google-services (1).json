@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1000423238353",
+    "project_id": "volunteerapp-22dce",
+    "storage_bucket": "volunteerapp-22dce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000423238353:android:e143f61160bd6c4bb733f0",
+        "android_client_info": {
+          "package_name": "com.example.ramiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000423238353-ve06016l8ej8ga7jq7onc9oomj6hb6r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ramiz_app",
+            "certificate_hash": "b5023d31e220467fa5c1327083d48e52f2970a38"
+          }
+        },
+        {
+          "client_id": "1000423238353-7i4b7044o38iom91fmee21gh5r18ggut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_j7YukPQt45DneO-abdBRNHUPCNL8Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000423238353-7i4b7044o38iom91fmee21gh5r18ggut.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000423238353-k7rl6kpt5a0f7c5e8kumasmdr8hobs26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ramizApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
